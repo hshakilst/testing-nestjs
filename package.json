@@ -93,7 +93,7 @@
     "@golevelup/ts-jest": "^0.3.2",
     "@nestjs/cli": "^8.1.8",
     "@nestjs/schematics": "^8.0.5",
-    "@nestjs/testing": "^8.2.4",
+    "@nestjs/testing": "^9.0.11",
     "@nrwl/cli": "^13.4.4",
     "@nrwl/eslint-plugin-nx": "13.7.3",
     "@nrwl/jest": "^13.4.4",
